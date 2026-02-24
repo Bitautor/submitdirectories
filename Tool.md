@@ -20,9 +20,10 @@ For an enhanced version of this dataset with more details:
 |Tool    |Sign In|30              |https://www.pitchwall.co/                |https://pitchwall.co/product/submit                                                                |
 |Tool    |Paid   |30              |https://www.gpte.ai/                     |https://gpte.ai/submit-a-tool/                                                                     |
 |Tool    |Paid   |29              |https://www.opentools.ai/                |https://friends.opentools.ai/                                                                      |
-|Tool    |Free   |28              |https://www.famewall.io/                         |https://tally.so/r/wgqKAO                                                                          |
+|Tool    |Free   |28              |https://www.famewall.io/                 |https://tally.so/r/wgqKAO                                                                          |
 |Tool    |Sign In|26              |https://www.nocodefounders.com/          |https://nocodefounders.com/tools                                                                   |
-|Tool    |Paid   |22              |https://www.uneed.best/                  |https://www.uneed.best/promote-your-tool                                                           |
+|Tool    |Sign In|22              |https://www.under1000mrr.tools/          |https://under1000mrr.tools/login                                                                   |
+|Tool    |Sign In|22              |https://www.best-ai-tools.org            |https://www.best-ai-tools.org/submit                                                               |
 |Tool    |Paid   |15              |https://www.toolspedia.io                |https://www.toolspedia.io/submit-tool/                                                             |
 |Tool    |Sign In|13              |https://www.ctrlalt.cc/                  |https://ctrlalt.cc/join                                                                            |
 |Tool    |Sign In|12              |https://www.awesomeindie.com/            |https://awesomeindie.com/                                                                          |
@@ -39,7 +40,6 @@ For an enhanced version of this dataset with more details:
 |Tool    |Free   |2               |https://www.landin.page                  |https://airtable.com/appM2182CtixVHiVD/shrlaKmB4qNK0y50o                                           |
 |Tool    |Free   |2               |https://www.topnocode.tools/             |https://topnocode.tools/submit/                                                                    |
 |Tool    |Sign In|2               |https://www.under1000mrr.tools/          |https://under1000mrr.tools/login                                                                   |
-
 
 ## Contribution
 
